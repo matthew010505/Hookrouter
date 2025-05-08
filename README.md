@@ -45,8 +45,8 @@ http://16.170.210.14:8000/docs
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/matthew010505/Webhook-Delivery-Service.git
-cd Webhook-Delivery-Service/
+git clone https://github.com/matthew010505/Hookrouter.git
+cd Hookrouter/
 ```
 
 ### 2. Create your `.env` file
