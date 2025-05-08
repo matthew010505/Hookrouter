@@ -35,6 +35,9 @@ http://16.170.210.14:8000/docs
 
 ---
 
+![image](https://github.com/user-attachments/assets/5168f6f2-9d5a-46d2-8fe1-eb0ac23f81b7)
+
+
 ## ⚙️ Setup & Run Locally
 
 ### 1. Clone the repository
