@@ -36,6 +36,8 @@ http://16.170.210.14:8000/docs
 ---
 
 ![image](https://github.com/user-attachments/assets/5168f6f2-9d5a-46d2-8fe1-eb0ac23f81b7)
+![image](https://github.com/user-attachments/assets/3350a218-a2ff-4d93-8310-ecf82a4ffb13)
+
 
 
 ## ⚙️ Setup & Run Locally
